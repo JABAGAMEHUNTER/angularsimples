@@ -1,41 +1,41 @@
-# Angular Storefront FE - Crash Course
+# Projeto em Angular simples 
+Este projeto é um frontend simples em Angular, mostrando um frontend de uma loja simples, incluindo conceitos de apps, módulos, serviços, componentes, e routing (rotas).
+O projeto possui um CRUD simples.
 
-This project is a simple storefront built with Angular, showcasing various Angular concepts including standalone apps, modules, services, components, and routing. In this tutorial, users will learn how to perform basic CRUD (Create, Read, Update, Delete) operations on products.
-
-## Table of Contents
+## Tabela de conteúdos
 
 - [Features](#features)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
+- [Início](#inicio)
+  - [Pre requisitos](#pre-requisitos)
+  - [Instalação](#instalacao)
+- [Uso](#uso)
+- [Licença](#licença)
 
 ## Features
 
-- **Standalone App:** The project is structured as a standalone Angular application.
-- **Modules:** Utilizes Angular modules for better organization and separation of concerns.
-- **Services:** Demonstrates the use of Angular services for data management and business logic.
-- **Components:** Various components for different parts of the storefront, like product listing, editing, and addition.
-- **Routing:** Implements Angular routing to navigate between different sections of the application.
-- **CRUD Operations:** Users can perform Create, Read, Update, and Delete operations on products.
+- **Standalone App:** O projeto é estruturado como uma aplicação  standalone Angular.
+- **Modules:** Utiliza módulos para organizar suas funções.
+- **Services:** Demonstra o uso de Services no Angular para gerenciar data e lógica de negócio.
+- **Components:** Vários componentes para diferentes partes do front da loja, como listagem de produtos, edição e adição de produtos.
+- **Routing:** Implementa routing do Angular para navegar entre as secções diferentes da aplicação.
+- **CRUD Operations:** Usuarios podem utilizar Create, Read, Update, e Delete nos produtos.
 
-## Getting Started
+## Inicio
 
-### Prerequisites
+### Pre-requisitos 
 
-Before you begin, ensure you have the following installed:
+Antes de iniciar, voce precisa instalar o seguinte:
 
 - [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/)
 - Angular CLI: `npm install -g @angular/cli`
 - [Prime NG](https://primeng.org/)
 
-### Installation
+### Instalacao
 
-1. Clone the repository:
+1. Clone o repositorio:
 
    ```bash
-   git clone https://github.com/thecodedeck/angular-cc-1-client.git
+   git clone https://github.com/JABAGAMEHUNTER/angularsimples.git
    ```
 
 2. Install dependencies:
@@ -43,14 +43,14 @@ Before you begin, ensure you have the following installed:
    npm install
    ```
 
-## Usage
+## Uso
 
-1. Run the development server:
+1. Execute o server de desenvolvimento: 
    ```bash
    ng serve
    ```
-2. Open your browser and navigate to http://localhost:4200/ to see the app in action.
+2. Abra o navegador e vá para  http://localhost:4200/ para ver o app em ação.
 
-## License
+## Licença
 
-This project is licensed under the MIT License.
+Este projeto usa licença MIT
